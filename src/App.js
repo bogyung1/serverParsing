@@ -66,7 +66,6 @@
 // })(App)
 
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
  import { Map, GoogleApiWrapper,Marker, InfoWindow } from 'google-maps-react';
 
